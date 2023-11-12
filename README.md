@@ -1,2 +1,4 @@
-# Accessibility-Checklist
-A comprehensive checklist designed for developers and designers to make sure your applications are accessible to all users, including those with disabilities.
+## Awesome Accessibility
+
+Welcome to the Awesome Accessibility repository, a dedicated space where developers, designers, and advocates of digital accessibility can find and contribute to a collection of resources aimed at making mobile applications inclusive for all users.
+
